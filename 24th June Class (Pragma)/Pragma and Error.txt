@@ -1,0 +1,8 @@
+// Pragma :
+            - This directive provides implementation-specific instructions to the compiler.
+            - It is used for compiler-specific features or Optimizations.
+
+// Error :
+            - This Directive is used to generate a compilation error with a co=ustom error message.
+            - It is often used for conditional error checking duing compolation.
+

@@ -1,0 +1,17 @@
+// Container Adaptor 
+/*
+- Predefined containers
+- provides a restricted interface to meet special needs
+- implemented by using the fundamental container classes
+- different kind of container adaptors 
+        1. Stack
+        2. Que
+        3. 
+*/
+// Stack //
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+    
+}

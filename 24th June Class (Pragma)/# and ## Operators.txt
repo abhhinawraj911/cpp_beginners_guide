@@ -1,0 +1,10 @@
+// The # and ## Operators
+// the # and ## Operators are preprocessor operators.
+
+/*
+# Operatoe :
+              This Operator wraps the appropriate arguments passed in the corresponding macros in double quotation marks.
+              it is also known as the stringizing Operator, which converts the input it preceded into a quoted sting.
+## Operatoe :
+              This Operator allows passed tockens or argument to be concatenation/merging.
+*/

@@ -1,0 +1,32 @@
+// Iterators
+/*
+- Similar to Pointers
+- Used to access members of the container classes
+- Each of the container classes is associated with a type of iterator.
+
+- Diffrent Types :
+                    1. Input Iterators
+                    2. Output Iterators
+                    3. Forward Iterators
+                    4. Bidirectional Iterators
+                    5. Random - access Iterators
+*/
+
+Input_iterators           - Read Values with Forward Movement
+Output_iterators          - Write Values with Forward Movement
+Forward_iterators         - Read and Write Values with Forward Movement
+Bidirectional_iterators   - Read and Write Values with Forward and Backward Movement
+Random_iterators          - Read and Write Values with random access.
+reverse_itreator          - Eiter a randon iterator or a Bidirectional Iterators that
+
+Operaton on Iterators:
+
+*              -
+
+->             -
+
+++             -
+
+== and !=      -
+
+=              -

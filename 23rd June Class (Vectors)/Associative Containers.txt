@@ -1,0 +1,6 @@
+// Associative Containers
+
+/*
+- The elements are automatically ordered according to a certain ordering criterion
+- The elements can be either values
+*/
